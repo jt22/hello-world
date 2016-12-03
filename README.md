@@ -1,2 +1,2 @@
 # hello-world
-Hi jt ako 2
+hi rin
